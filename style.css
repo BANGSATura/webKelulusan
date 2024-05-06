@@ -1,0 +1,16 @@
+body {
+    background-color: #95a5a6;
+}
+
+.container{
+    background-color: white;
+    min-width: 12rem;
+}
+
+.container img {
+    width: 8rem;
+}
+
+.col-2 {
+    width: 10rem;
+}
